@@ -4,9 +4,6 @@
 * [Chrome Devtools Protocol](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Chrome开发协议相关资源；Chrome控制台工具、Selenium、Puppeteer均基于此协议开发；所有主流编程语言均有第三方支持
 * [Selenium](https://www.seleniumhq.org/) - 应用最广泛的浏览器自动化测试框架，支持所有主流浏览器
 * [Puppeteer(javascript)](https://github.com/GoogleChrome/puppeteer/) - 基于Chrome开发协议的高层浏览器自动化框架
-* [CDP4J](https://github.com/webfolderio/cdp4j) - Java版本的Chrome开发协议支持库。注意本库为商业授权
-* [Tampermonkey](https://tampermonkey.net/) - 著名的“油猴”浏览器脚本管理器，可用于浏览器自动化控制
-* [PhantomJS(javascript)](http://phantomjs.org/) - 基于WebKet核心的无头浏览器。已经停止维护
 
 ### 代理IP
 * [66免费代理网](http://www.66ip.cn/)
@@ -48,17 +45,12 @@
 * [acornjs](https://github.com/acornjs/acorn) - ECMAScript编译器前端，将js源码解析成estree格式的AST
 * [astring](https://github.com/davidbonnet/astring) - ECMAScript代码生成器，将AST重新还原成js源码
 
-### 爬虫实例项目
-* [知乎爬虫](https://github.com/wycm/zhihu-crawler) - 使用http代理，多线程
-* [电商爬虫](https://github.com/JFanZhao/spider) - httpclient+hbase+solr+redis+zookeeper
-* [淘宝商品爬虫(python)](https://github.com/Williamsunsir/Spider/tree/master/taobao) - python + selenium
-
 ### 爬虫干货文章收集
 
 #### 概念
 * [HTTP简史](https://zhuanlan.zhihu.com/p/59345476) - 介绍HTTP协议的干货
-* [网络爬虫干货总结](https://juejin.im/post/5bce8201518825773605597d) - 虽然是python栈的，但是对爬虫各个环节的概念总结的非常全面
-* [Java 月薪25K的爬虫工程师对爬虫的流程做了一个非常全面的总结！](https://blog.csdn.net/Knight_VIP/article/details/81736918) - 膜拜ing...
+* [网络爬虫干货总结](https://juejin.im/post/5bce8201518825773605597d) - python栈，对爬虫各个环节的概念总结的非常全面
+* [Java 月薪25K的爬虫工程师对爬虫的流程做了一个非常全面的总结！](https://blog.csdn.net/Knight_VIP/article/details/81736918) - Java栈的
 
 #### 实操
 * [微信公众号文章批量采集系统的构建](https://zhuanlan.zhihu.com/p/24302048)
@@ -80,9 +72,4 @@
 
 #### Chrome浏览器相关
 * [Chrome命令行参数大全](https://peter.sh/experiments/chromium-command-line-switches/) - 定制化chrome，比如启动无头版浏览器
-* [Getting Started with Headless Chrome](https://developers.google.com/web/updates/2017/04/headless-chrome) - 介绍如何使用无头版Chrome
-* [CentOS6上安装Chrome](https://intoli.com/blog/installing-google-chrome-on-centos/) - 用于搭建无头浏览器爬虫生产环境
 * [CentOS 7.x环境下搭建: Headless chrome + Selenium + ChromeDriver](https://blog.csdn.net/zhuyiquan/article/details/79537623)
-
-### 其它资源
-* [apkmirror](https://www.apkmirror.com/apk/google-inc/chrome/variant-%7B%22arches_slug%22%3A%5B%22x86%22%5D%7D/) - 安卓x86版Chrome下载，可用于安卓模拟器
