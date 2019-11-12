@@ -45,6 +45,9 @@
 * [acornjs](https://github.com/acornjs/acorn) - ECMAScript编译器前端，将js源码解析成estree格式的AST
 * [astring](https://github.com/davidbonnet/astring) - ECMAScript代码生成器，将AST重新还原成js源码
 
+### 实战
+* [Boss直聘反反爬](https://github.com/PuTongjian/awesome-crawler/blob/master/spider/zhipin.py)
+
 ### 爬虫干货文章收集
 
 #### 概念
