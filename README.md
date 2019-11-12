@@ -1,13 +1,5 @@
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
-### 非浏览器Java爬虫框架
-* [VSCrawler](https://gitee.com/virjar/vscrawler) - 适合抓取封堵的爬虫框架，大佬出品！
-* [WebMagic](https://github.com/code4craft/webmagic) - Java垂直爬虫框架
-* [crawler4j](https://github.com/yasserg/crawler4j) - 多线程爬虫框架
-* [SeimiCrawler](https://github.com/zhegexiaohuozi/SeimiCrawler)
-* [ispider](https://github.com/xpleaf/ispider) - 分布式爬虫框架
-* [Gecco](https://github.com/xtuhcy/gecco) - 轻量化的易用的网络爬虫
-
 ### 基于浏览器核心的爬虫工具
 * [Chrome Devtools Protocol](https://github.com/ChromeDevTools/awesome-chrome-devtools) - Chrome开发协议相关资源；Chrome控制台工具、Selenium、Puppeteer均基于此协议开发；所有主流编程语言均有第三方支持
 * [Selenium](https://www.seleniumhq.org/) - 应用最广泛的浏览器自动化测试框架，支持所有主流浏览器
@@ -15,17 +7,6 @@
 * [CDP4J](https://github.com/webfolderio/cdp4j) - Java版本的Chrome开发协议支持库。注意本库为商业授权
 * [Tampermonkey](https://tampermonkey.net/) - 著名的“油猴”浏览器脚本管理器，可用于浏览器自动化控制
 * [PhantomJS(javascript)](http://phantomjs.org/) - 基于WebKet核心的无头浏览器。已经停止维护
-
-### Java网络框架
-* [java-curl](https://github.com/rockswang/java-curl) - CURL命令行工具的纯java实现，功能强大，灵活方便
-* httpclient - 历史悠久的Apache HTTP开源库
-* okhttp - 目前流行的HTTP开源库，可用于Android
-* retrofit - 基于okhttp的高层HTTP库，提供基于注解的API
-
-### 应答数据解析
-* [jsoup](https://jsoup.org/) - 网络请求，HTML解析，CSS Selector/xPath查询
-* Jackson, GSON, fastjson - JSON解析
-* [dom4j](https://dom4j.github.io/) - XML解析
 
 ### 代理IP
 * [66免费代理网](http://www.66ip.cn/)
@@ -37,7 +18,6 @@
 * [冷月JS爆破](https://github.com/leng-yue/Lengyue-Vcode/) - 各种滑动验证码识别
 * [Luosimao验证码破解](https://github.com/sml2h3/luosimao_cracker)
 * [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) - 开源OCR引擎，可用于自动识别较简单的图片验证码
-* [若快](http://www.ruokuai.com/) - 人肉打码平台，服务较稳定，应答时间较快
 
 ### 抓包分析，请求拦截等工具
 * [Fiddler](https://www.telerik.com/fiddler) - Windows平台上常用抓包工具，可以分析HTTPS，可C#编程自行扩展
