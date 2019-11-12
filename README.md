@@ -1,8 +1,5 @@
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 
-# awesome-java-crawler
-本仓库收集整理Java爬虫相关资源
-
 ### 非浏览器Java爬虫框架
 * [VSCrawler](https://gitee.com/virjar/vscrawler) - 适合抓取封堵的爬虫框架，大佬出品！
 * [WebMagic](https://github.com/code4craft/webmagic) - Java垂直爬虫框架
